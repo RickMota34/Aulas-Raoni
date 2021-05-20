@@ -1,0 +1,44 @@
+[{
+  "users": [
+    {
+      "id": 0,
+      "name": "Ricardo Mota",
+      "work": "Fp",
+      "email": "ricardorickricardo@gmail.com",
+      "dob": "1986",
+      "address": "rua maria teresa 28",
+      "city": "Rio de Janeiro",
+      "optedin": true
+    },
+    {
+      "id": 1,
+      "name": "maria",
+      "work": "loja",
+      "email": "mariadosantos@hotmail.com.br",
+      "dob": "13/05/1990",
+      "address": "tingua",
+      "city": "Bahia",
+      "optedin": false
+    },
+    {
+      "id":2,
+      "name":"tatiana",
+      "work":"CD",
+      "email":"tathyesmerierimota@yahoo.com",
+      "dod":"15/11/1981",
+      "address":"nova iguaçu",
+      "city":"Ceará",
+      "optedin":true
+    }
+  ],
+  "images": [
+    "img0.png",
+    "img1.png",
+    "img2.png"
+  ],
+  "coordinates": {
+  	"x": 35.12,
+  	"y": -21.49
+  },
+  "price": "$59,395"
+}]
